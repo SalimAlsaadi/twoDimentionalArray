@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\bin\Debug\net6.0\twoDimentionalArray.exe
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\bin\Debug\net6.0\twoDimentionalArray.deps.json
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\bin\Debug\net6.0\twoDimentionalArray.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\bin\Debug\net6.0\twoDimentionalArray.dll
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\bin\Debug\net6.0\twoDimentionalArray.pdb
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\obj\Debug\net6.0\twoDimentionalArray.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\obj\Debug\net6.0\twoDimentionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\obj\Debug\net6.0\twoDimentionalArray.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\obj\Debug\net6.0\twoDimentionalArray.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\obj\Debug\net6.0\twoDimentionalArray.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\obj\Debug\net6.0\twoDimentionalArray.dll
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\obj\Debug\net6.0\refint\twoDimentionalArray.dll
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\obj\Debug\net6.0\twoDimentionalArray.pdb
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\obj\Debug\net6.0\twoDimentionalArray.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\twoDimentionalArray\twoDimentionalArray\obj\Debug\net6.0\ref\twoDimentionalArray.dll
